@@ -1,0 +1,13 @@
+{
+    "timeBlocks": [{
+        "duration": 0,
+        "startingTime": "08:00",
+        "name": "00.2",
+        "endingTime": "09:00",
+        "event": {
+            "num": 1,
+            "eventName": ""
+        }
+    }],
+    "name": "2002/01/01"
+}

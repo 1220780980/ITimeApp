@@ -1,0 +1,17 @@
+{
+  "name": "Event List",
+  "events": [
+    {
+      "number": 1,
+      "name": "read"
+    },
+    {
+      "number": 2,
+      "name": "study"
+    },
+    {
+      "number": 3,
+      "name": "rest"
+    }
+  ]
+}
